@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Password Generator",
+    "description": "A simple password generator extension",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "AMB.png",
+        "32": "AMB.png",
+        "48": "AMB.png",
+        "128": "AMB.png"
+    }
+    
+}
